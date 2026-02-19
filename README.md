@@ -1,6 +1,6 @@
 # Olá, eu sou a Juciana 👋
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" align="right">
+<img src="https://media.tenor.com/2uyENR6YEqMAAAAM/coding.gif" width="200" align="right">
 
 💻 Estudante de **Frontend**  
 ✨ Sempre apaixonada por tecnologia e agora construindo minha carreira na área  
@@ -23,14 +23,14 @@
 ---
 
 ## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/juciana-de-souza-soares)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: jucianasouza24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seuusuario)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
 ---
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JucianaSoares&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JucianaSoares&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight)
 
 ---
 
