@@ -23,17 +23,17 @@
 ---
 
 ## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seuusuario)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/juciana-de-souza-soares)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: jucianasoares38@gmail.com)
 
 ---
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JucianaSoares&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JucianaSoares=seuusuario&layout=compact&theme=tokyonight)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=seuusuario&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?JucianaSoares=JucianaSoares&color=blue&style=flat-square)
 
 ✨ *"A tecnologia sempre fez parte da minha vida, e agora estou transformando essa paixão em carreira."*
