@@ -1,6 +1,6 @@
 # Olá, eu sou a Juciana 👋
 
-<img src="assets/giphy.gif" width="200" align="right">
+<img src="assets/Programadora.gif" width="200" align="right">
 
 💻 Estudante de **Frontend**  
 ✨ Sempre apaixonada por tecnologia e agora construindo minha carreira na área  
@@ -27,13 +27,16 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: jucianasoares38@gmail.com)
 
 ---
-
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JucianaSoares&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JucianaSoares=seuusuario&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JucianaSoares&layout=compact&theme=tokyonight)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?JucianaSoares=JucianaSoares&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=JucianaSoares&color=blue&style=flat-square)
+
+
+
+
 
 ✨ *"A tecnologia sempre fez parte da minha vida, e agora estou transformando essa paixão em carreira."*
