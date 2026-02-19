@@ -1,6 +1,6 @@
 # Olá, eu sou a Juciana 👋
 
-<img src="https://media.tenor.com/2uyENR6YEqMAAAAM/coding.gif" width="200" align="right">
+<img src="assets/programming.gif" width="200" align="right">
 
 💻 Estudante de **Frontend**  
 ✨ Sempre apaixonada por tecnologia e agora construindo minha carreira na área  
