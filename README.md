@@ -7,7 +7,6 @@
 🚀 Explorando novos desafios e aprendendo cada dia mais  
 
 ---
-
 ## 🚀 Tecnologias que estou aprendendo
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
@@ -29,17 +28,18 @@
 
 ## 📱 WhatsApp
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521976551330)
----
-## 📊 Estatísticas
+
+___
+
 ![GitHub Stats](https://github-readme-stats-git-master-jucianasoares.vercel.app/api?username=JucianaSoares&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-git-master-jucianasoares.vercel.app/api/top-langs/?username=JucianaSoares&layout=compact&theme=tokyonight)
 
----
+## 🌱 Futuras Ideias
 
-![Profile Views](https://komarev.com/ghpvc/?username=JucianaSoares&color=blue&style=flat-square)
-
-
-
-
+[![Front-end](https://img.shields.io/badge/💻-Front--end-blue?style=for-the-badge)]()  
+[![Linguagens](https://img.shields.io/badge/📚-Aprender%20novas%20linguagens-orange?style=for-the-badge)]()  
+[![Projeto](https://img.shields.io/badge/🚀-Criar%20meu%20próprio%20projeto-purple?style=for-the-badge)]()  
+[![Comunidade](https://img.shields.io/badge/🤝-Contribuir%20com%20projetos-green?style=for-the-badge)]()  
+[![Carreira](https://img.shields.io/badge/🎯-Entrar%20no%20ramo%20da%20tecnologia-red?style=for-the-badge)]()
 
 ✨ *"A tecnologia sempre fez parte da minha vida, e agora estou transformando essa paixão em carreira."*
