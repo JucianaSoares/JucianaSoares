@@ -7,6 +7,11 @@
 🚀 Explorando novos desafios e aprendendo cada dia mais  
 
 ---
+
+🌐 **Acesse o meu Portfólio:** [![Portfólio](https://img.shields.io/badge/Portfólio-purple?style=for-the-badge&logo=google-chrome&logoColor=white)](https://JucianaSoares.github.io/Juciana-portifolio/)
+
+---
+
 ## 🚀 Tecnologias que estou aprendendo
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
