@@ -2,7 +2,7 @@
 
 <img src="assets/Programadora.gif" width="200" align="right">
 
-💻 Estudante de **Frontend**  
+💻 Estudante de **Frontend** e **Backend** 
 ✨ Sempre apaixonada por tecnologia e agora construindo minha carreira na área  
 🚀 Explorando novos desafios e aprendendo cada dia mais  
 
