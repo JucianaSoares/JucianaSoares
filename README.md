@@ -14,7 +14,7 @@
 
 ## 🚀 Tecnologias que estou aprendendo
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs" />
 </p>
 
 ---
